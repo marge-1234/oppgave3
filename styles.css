@@ -1,0 +1,21 @@
+.ikon{
+    width: 32px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nordlys{
+    width: 50%;
+}
+
+.tekst{
+    width: 50%;
+}
+
+section{
+
+    display: flex;
+}
