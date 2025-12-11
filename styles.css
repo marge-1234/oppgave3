@@ -8,14 +8,16 @@ header{
 }
 
 .nordlys{
-    width: 50%;
+    width: 25%;
 }
 
 .tekst{
-    width: 50%;
+    width: 25%;
 }
 
-section{
-
+section{ 
     display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
 }
